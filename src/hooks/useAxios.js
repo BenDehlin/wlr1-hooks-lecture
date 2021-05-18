@@ -1,3 +1,5 @@
+// No notes have been added to this component
+// yet.
 import {useState, useEffect} from 'react'
 import axios from 'axios'
 
